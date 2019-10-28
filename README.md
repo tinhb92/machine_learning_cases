@@ -1,5 +1,7 @@
 # machine_learning_cases
-Machine learning applied to real life problems
+Machine learning applied to real life problems.
+
+Either directly affect the bottom line or help the decision making process.
 
 1. Fraud detection 
 
