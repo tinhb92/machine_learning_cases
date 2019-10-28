@@ -24,3 +24,11 @@ https://www.kaggle.com/c/mercedes-benz-greener-manufacturing
 https://www.kaggle.com/c/grupo-bimbo-inventory-demand
 
 https://www.kaggle.com/c/restaurant-revenue-prediction
+
+Instacart purchase https://www.kaggle.com/c/instacart-market-basket-analysis
+
+4. Pricing
+
+Retailers https://www.kaggle.com/c/mercari-price-suggestion-challenge
+
+Airline pricing https://www.kaggle.com/dansbecker/airline-price-optimization-micro-challenge
