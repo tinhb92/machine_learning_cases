@@ -32,3 +32,7 @@ Instacart purchase https://www.kaggle.com/c/instacart-market-basket-analysis
 Retailers https://www.kaggle.com/c/mercari-price-suggestion-challenge
 
 Airline pricing https://www.kaggle.com/dansbecker/airline-price-optimization-micro-challenge
+
+5. Recommendation
+
+Airbnb https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
