@@ -21,12 +21,6 @@ https://www.kaggle.com/c/mercedes-benz-greener-manufacturing
 
 3. Sales
 
-https://www.kaggle.com/c/grupo-bimbo-inventory-demand
-
-https://www.kaggle.com/c/restaurant-revenue-prediction
-
-Instacart purchase https://www.kaggle.com/c/instacart-market-basket-analysis
-
 4. Pricing
 
 Retailers https://www.kaggle.com/c/mercari-price-suggestion-challenge
@@ -39,3 +33,4 @@ Airline pricing https://www.kaggle.com/dansbecker/airline-price-optimization-mic
 
 UCARE.ai - Predicting Hospital Bills at Pre-admission https://www.slideshare.net/eugeneyan/predicting-hospital-bills-at-preadmission-180494667
 
+7. Vision
