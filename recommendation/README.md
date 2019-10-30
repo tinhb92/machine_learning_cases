@@ -1,8 +1,9 @@
 ### Lazada
 [2016 How Lazada ranks products](https://eugeneyan.com/2016/12/09/shared-about-my-work-in-lazada-at-strata-hadoop-singapore-2016)
+
 Hadoop, Spark
 
-Provide shoppers quick access to best products in catalog/search results, making shopping easy
+**Key Qn: Provide shoppers quick access to best products in catalog/search results, making shopping easy**
 
 Measure shoppers' interest through product engagement as a proxy: clicks, add-to-cart, checkouts, etc.
 
@@ -15,7 +16,7 @@ Product engagement metrics: average clicks, conversion rate
 Better ranking improved conversion (3 - 8%)
 Increase revenue per session by 5 - 20%
 
-**Introduce new products**
+**Key Qn: Introduce new products**
 demand: find what people need
 supply: find product similar to top products, measure similarity with top products
 
@@ -25,8 +26,19 @@ Increased new product click-thru rate by 30-80%
 Increased new product add-to-cart by 20-90%
 Expected overall conversion to decrease - increased instead (though not statistically significant)
 
-Measure product quality
-content, reviews, performance (browsing time)
+**Key Qn: How to Measure product quality**
+
+content(title quality, richness of content), 
+
+reviews (average rating, negative reviews), 
+
+performance (click-thru rate, browsing time)
+
+perfect order rate (i.e., not cancelled, not returned)
+
+negative feedback (counterfeit, complaints)
+
+seller metrics (timely shipped-rate, return rate)
 
 [2018](https://www.slideshare.net/eugeneyan/data-science-challenges-and-impact-at-lazada-big-data-and-analytics-innovation-summit-singapore-2018)
 
