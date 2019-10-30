@@ -35,8 +35,6 @@ Airline pricing https://www.kaggle.com/dansbecker/airline-price-optimization-mic
 
 5. Recommendation
 
-Airbnb https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
-
 6. Healthcare
 
 UCARE.ai - Predicting Hospital Bills at Pre-admission https://www.slideshare.net/eugeneyan/predicting-hospital-bills-at-preadmission-180494667
