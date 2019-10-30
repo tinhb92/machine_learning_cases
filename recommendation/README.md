@@ -40,6 +40,8 @@ negative feedback (counterfeit, complaints)
 
 seller metrics (timely shipped-rate, return rate)
 
+results: improved quality of products displayed, increased conversion by 3-5% for some countries, small change in others
+
 [2018](https://www.slideshare.net/eugeneyan/data-science-challenges-and-impact-at-lazada-big-data-and-analytics-innovation-summit-singapore-2018)
 
 
