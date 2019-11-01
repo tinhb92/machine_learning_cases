@@ -1,3 +1,5 @@
+<img src="https://github.com/tinhb92/machine_learning_cases/blob/master/5_tigers.jpg" width="555">
+
 # machine_learning_cases
 Machine learning applied to real life problems.
 
