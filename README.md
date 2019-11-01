@@ -1,4 +1,4 @@
-<img src="https://github.com/tinhb92/machine_learning_cases/blob/master/5_tigers.jpeg" width="555">
+<img src="https://github.com/tinhb92/machine_learning_cases/blob/master/5_tigers.jpeg" width="333">
 
 # machine_learning_cases
 Machine learning applied to real life problems.
